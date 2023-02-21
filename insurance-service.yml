@@ -2,7 +2,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/insurancedb
-    username: something
+    username: root
     password: Arjun@1994
   jpa:
     show-sql: true
