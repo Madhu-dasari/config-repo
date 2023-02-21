@@ -9,7 +9,7 @@
     show-sql: true
     generate-ddl: false
     hibernate:
-      ddl-auto: create
+      ddl-auto: update
  eureka:
   client:
     register-with-eureka: true
